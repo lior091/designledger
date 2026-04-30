@@ -5,6 +5,8 @@ import { TechnicalRail } from "@/components/TechnicalRail";
 import { publish } from "./actions";
 import { bootstrapImportBookmarksAndPublishAll } from "@/lib/artifacts/bootstrap";
 
+export const dynamic = "force-dynamic";
+
 export default async function ReviewPage() {
   const drafts = await listDraftArtifacts();
 

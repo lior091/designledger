@@ -2,6 +2,8 @@ import Link from "next/link";
 
 import { MintingForm } from "@/components/MintingForm";
 
+export const dynamic = "force-dynamic";
+
 export default function MintPage() {
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-6 py-10">
