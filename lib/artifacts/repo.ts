@@ -38,8 +38,17 @@ function parseArtifactsFile(jsonText: string): ArtifactsFile {
 }
 
 async function readArtifactsFile(): Promise<ArtifactsFile> {
-  const text = await readFile(ARTIFACTS_FILE_PATH, "utf-8");
-  return parseArtifactsFile(text);
+  try {
+    const text = await readFile(ARTIFACTS_FILE_PATH, "utf-8");
+    return parseArtifactsFile(text);
+  } catch (e: any) {
+    // In some deploy environments (e.g. Vercel) the JSON file may not exist.
+    // Treat it as an empty ledger instead of crashing prerender/build.
+    if (e?.code === "ENOENT") {
+      return { version: 1, artifacts: [] };
+    }
+    throw e;
+  }
 }
 
 async function writeArtifactsFile(next: ArtifactsFile) {

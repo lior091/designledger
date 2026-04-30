@@ -88,12 +88,14 @@ export default async function ReviewPage() {
               />
               <TechnicalRail artifact={d} />
               <div className="flex items-center justify-between gap-4 px-4 py-4">
-                <Link
-                  href={`/artifacts/${d.id}`}
+                <a
+                  href={d.url}
+                  target="_blank"
+                  rel="noreferrer"
                   className="rounded-full px-4 py-2 mono-border text-xs tracking-wide text-[color:var(--foreground)] transition-colors hover:bg-[color:var(--steel-2)]"
                 >
-                  Inspect
-                </Link>
+                  Open
+                </a>
                 <form
                   action={async () => {
                     "use server";
