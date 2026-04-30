@@ -10,6 +10,10 @@ export function LikeButton({
   artifactId: string;
   count: number;
 }) {
+  if (process.env.NEXT_PUBLIC_READ_ONLY === "true") {
+    return null;
+  }
+
   const [pending, startTransition] = useTransition();
   const router = useRouter();
   const [optimisticCount, setOptimisticCount] = useState<number | null>(null);

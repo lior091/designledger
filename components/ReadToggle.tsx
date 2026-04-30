@@ -10,6 +10,10 @@ export function ReadToggle({
   artifactId: string;
   isRead: boolean;
 }) {
+  if (process.env.NEXT_PUBLIC_READ_ONLY === "true") {
+    return null;
+  }
+
   const [pending, startTransition] = useTransition();
   const router = useRouter();
   const [optimisticRead, setOptimisticRead] = useState<boolean | null>(null);

@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 
 import { listArtifacts, updateArtifact } from "@/lib/artifacts/repo";
 import { fetchUrlPreview } from "@/lib/preview/fetchPreview";
+import { isReadOnlyMode } from "@/lib/artifacts/readOnly";
 
 async function mapWithConcurrency<T, R>(
   items: T[],
@@ -27,6 +28,9 @@ async function mapWithConcurrency<T, R>(
 }
 
 export async function POST() {
+  if (isReadOnlyMode()) {
+    return NextResponse.json({ error: "read_only" }, { status: 403 });
+  }
   const all = await listArtifacts();
   const missing = all.filter((a) => !a.coverUrl);
 

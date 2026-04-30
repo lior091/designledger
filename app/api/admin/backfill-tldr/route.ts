@@ -2,8 +2,12 @@ import { NextResponse } from "next/server";
 
 import { listArtifacts, updateArtifact } from "@/lib/artifacts/repo";
 import { generateTldr } from "@/lib/tldr/generateTldr";
+import { isReadOnlyMode } from "@/lib/artifacts/readOnly";
 
 export async function POST(req: Request) {
+  if (isReadOnlyMode()) {
+    return NextResponse.json({ error: "read_only" }, { status: 403 });
+  }
   const body = (await req.json().catch(() => null)) as
     | { force?: unknown }
     | null;

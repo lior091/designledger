@@ -4,6 +4,8 @@ import path from "node:path";
 import type { Artifact, ArtifactStatus, ArtifactsFile } from "./types";
 import { sha256Hex } from "@/lib/crypto/sha256";
 import { normalizeUrl } from "@/lib/artifacts/url";
+import { isReadOnlyMode } from "@/lib/artifacts/readOnly";
+import { loadSeedArtifactsFromSpecs } from "@/lib/artifacts/seedFromSpecs";
 
 const ARTIFACTS_FILE_PATH = path.join(process.cwd(), "data", "artifacts.json");
 
@@ -45,13 +47,24 @@ async function readArtifactsFile(): Promise<ArtifactsFile> {
     // In some deploy environments (e.g. Vercel) the JSON file may not exist.
     // Treat it as an empty ledger instead of crashing prerender/build.
     if (e?.code === "ENOENT") {
-      return { version: 1, artifacts: [] };
+      // Prefer seeding from specs in read-only deploys, so the gallery isn't empty.
+      try {
+        const seeded = await loadSeedArtifactsFromSpecs();
+        return parseArtifactsFile(
+          JSON.stringify({ version: 1, artifacts: seeded }),
+        );
+      } catch {
+        return { version: 1, artifacts: [] };
+      }
     }
     throw e;
   }
 }
 
 async function writeArtifactsFile(next: ArtifactsFile) {
+  if (isReadOnlyMode()) {
+    throw new Error("READ_ONLY_MODE");
+  }
   const tmpPath = `${ARTIFACTS_FILE_PATH}.${Date.now()}.tmp`;
   await writeFile(tmpPath, JSON.stringify(next, null, 2) + "\n", "utf-8");
   await rename(tmpPath, ARTIFACTS_FILE_PATH);
