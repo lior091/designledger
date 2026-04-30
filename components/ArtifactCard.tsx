@@ -1,21 +1,7 @@
 import type { Artifact } from "@/lib/artifacts/types";
 import { getDecayOpacity } from "@/lib/artifacts/aging";
 import { TechnicalRail } from "@/components/TechnicalRail";
-
-function coverBackground(artifact: Artifact) {
-  if (artifact.coverUrl) {
-    return {
-      backgroundImage: `url(${artifact.coverUrl})`,
-      backgroundSize: "cover",
-      backgroundPosition: "center",
-    } as const;
-  }
-
-  return {
-    backgroundImage:
-      "radial-gradient(900px 420px at 20% 0%, rgba(255,176,32,.22), transparent 55%), radial-gradient(700px 360px at 80% 20%, rgba(122,162,247,.12), transparent 60%), linear-gradient(135deg, rgba(255,255,255,.06), rgba(255,255,255,.02))",
-  } as const;
-}
+import { ClientCover } from "@/components/ClientCover";
 
 export function ArtifactCard({ artifact }: { artifact: Artifact }) {
   const opacity = getDecayOpacity(artifact);
@@ -28,11 +14,7 @@ export function ArtifactCard({ artifact }: { artifact: Artifact }) {
       className="group relative aspect-square overflow-hidden rounded-xl mono-border neo-shadow transition-transform duration-200 hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--amber)]"
       style={{ opacity }}
     >
-      <div
-        className="absolute inset-0"
-        style={coverBackground(artifact)}
-        aria-hidden="true"
-      />
+      <ClientCover url={artifact.url} initialCoverUrl={artifact.coverUrl} />
       <div
         className="absolute inset-0"
         aria-hidden="true"
