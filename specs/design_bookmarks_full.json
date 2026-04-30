@@ -1,0 +1,1479 @@
+[
+  {
+    "title": "לספור עד 4 ולא עד 5 (PDF)",
+    "description": "Article about cognitive abilities shared by Ori Dar. While not design-related, the team found it relevant to take from it.",
+    "link": "https://imperva.slack.com/files/U09L4BPT2/F04GYDDH398/________________4_____________5.pdf",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Will artificial intelligence replace my job as a UX designer?",
+    "description": "An examination of ChatGPT and Dall-E's capacity for UX Design. Argues AI lacks the creativity, critical thinking and communication skills to replace human UX designers.",
+    "link": "https://uxdesign.cc/will-artificial-intelligence-like-chatgpt-and-dall-e-replace-my-job-as-a-user-experience-designer-93f26d8c109",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Refero — design references for your next project",
+    "description": "The biggest collection of design references from great web applications.",
+    "link": "https://refero.design/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "How to describe your design decisions",
+    "description": "Chapter 8 from Articulating Design Decisions — common ways of describing design decisions when responding to stakeholders.",
+    "link": "https://www.oreilly.com/content/how-to-describe-your-design-decisions/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How letter casing affects comprehension of UI content",
+    "description": "UX writing article focusing on the capitalization aspect and how it affects readability and comprehension.",
+    "link": "https://uxdesign.cc/how-letter-casing-affects-comprehension-of-ui-content-34a21235cc73",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Functioning malware written by ChatGPT spotted on dark web",
+    "description": "Check Point Research report on functioning malware written by ChatGPT found on the dark web.",
+    "link": "https://www.cpomagazine.com/cyber-security/functioning-malware-written-by-chatgpt-spotted-on-dark-web-says-check-point-research/",
+    "thumbnail": null,
+    "shared_by": "Nadav Feuer"
+  },
+  {
+    "title": "Apple's new whiteboard app gives you and up to 99 friends an infinite canvas",
+    "description": "Apple released Freeform in iOS 16.2 — a collaborative infinite canvas whiteboard app, possible Miro competitor.",
+    "link": "https://www.theverge.com/2022/12/13/23507641/apple-freeform-whiteboard-app-ios-mac-ipad",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "AI Tools List (ClickUp Doc)",
+    "description": "Curated list of AI tools shared by the team.",
+    "link": "https://publicdoc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "PayPal Data Breach — Over 35,000 Users' Accounts Compromised",
+    "description": "PayPal notified thousands of users affected by a credential stuffing data breach attack.",
+    "link": "https://gbhackers.com/paypal-data-breach/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "UX מדברות על (Eventbrite Event)",
+    "description": "A women's UX evening meetup event in Tel Aviv, March 2023.",
+    "link": "https://www.eventbrite.com/e/ux-tickets-485518076637",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "יצאתי לחקור: איך ממחקר על מחקר נולד צוות UXR (של אחד)",
+    "description": "Ori Dar on how he defined and built the UXR role at Imperva, starting from a research-on-research process.",
+    "link": "https://uxilive.co.il/video/research-research-ori-dar/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "GitLab Job Families — All Role Descriptions",
+    "description": "Full role descriptions for all job families at GitLab, a great reference for how tech companies define design and engineering roles.",
+    "link": "https://about.gitlab.com/job-families/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "New User Onboarding SaaS: How to Onboard New Users And Drive Adoption",
+    "description": "Comprehensive and actionable guide on how to onboard new users in SaaS products and drive product adoption.",
+    "link": "https://userpilot.com/blog/new-user-onboarding/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Shopify is axing all meetings involving more than two people",
+    "description": "Shopify eliminated 76,500 hours of meetings in a company-wide calendar purge, cutting all recurring meetings with 3+ people.",
+    "link": "https://finance.yahoo.com/news/shopify-axing-meetings-involving-more-171802803.html",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Bing AI chat presentation highlights",
+    "description": "Announcement of the new Bing with AI chat integration and Edge browser features.",
+    "link": "https://twitter.com/bing/status/1623456808529453057",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Galileo AI · Copilot for interface design",
+    "description": "Generates delightful UI designs from a text prompt instantly, combining UI components, images, and content to help designers work faster.",
+    "link": "https://www.usegalileo.ai/",
+    "thumbnail": null,
+    "shared_by": "Sher Agami"
+  },
+  {
+    "title": "Genius by Diagram",
+    "description": "Your AI design companion — an AI-powered design tool.",
+    "link": "https://www.genius.design/?utm_source=substack&utm_medium=email",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Introducing Notion AI",
+    "description": "Leverage the power of AI in any Notion page. AI writing assistance built directly into Notion, now in private alpha.",
+    "link": "https://www.notion.so/product/ai",
+    "thumbnail": null,
+    "shared_by": "Sher Agami"
+  },
+  {
+    "title": "Bigscreen VR",
+    "description": "Watch movies, hang out, and work together in virtual reality.",
+    "link": "https://www.bigscreenvr.com/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Akamai reaches for the cloud",
+    "description": "Akamai announced its Connected Cloud — a new edge and cloud platform based in part on its Linode acquisition, targeting underserved city locations.",
+    "link": "https://techcrunch.com/2023/02/13/akamai-reaches-for-the-cloud/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Type — The AI-powered document editor",
+    "description": "Generate drafts, transform text, get writing assistance — an AI writer tool.",
+    "link": "https://type.ai/",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Nokia reveals new logo to remind you it doesn't make phones anymore",
+    "description": "Nokia redesigned its logo for the first time in decades, signaling its shift away from consumer mobile phones after the 2014 Microsoft sale.",
+    "link": "https://www.theverge.com/2023/2/27/23616582/nokia-new-logo-telecoms-mobile-phones",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Akamai Announces Intention to Acquire Ondat",
+    "description": "Akamai acquires Ondat, a cloud-based Kubernetes-native storage technology provider for stateful applications.",
+    "link": "https://www.akamai.com/newsroom/press-release/akamai-announces-intention-to-acquire-ondat",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "The Periodic Table of Storytelling",
+    "description": "The basic building blocks of storytelling, presented as a periodic table — a framework for narrative elements.",
+    "link": "https://jamesharris.design/periodic/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "How Leaders Can Get the Feedback They Need to Grow",
+    "description": "HBR piece on inviting Radical Candor from your team — six tips for soliciting real feedback when things feel uncertain.",
+    "link": "https://hbr.org/2023/03/how-leaders-can-get-the-feedback-they-need-to-grow",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "Design in Tech 2023: Design and Artificial Intelligence (Abridged)",
+    "description": "John Maeda's annual Design in Tech report 2023, focusing mainly on AI and its impact on design.",
+    "link": "https://youtu.be/_tAs0kWEXe0",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Introducing Microsoft 365 Copilot | Your Copilot for Work",
+    "description": "Microsoft announces Microsoft 365 Copilot — AI integrated into Word, Excel, PowerPoint, Outlook and Teams.",
+    "link": "https://youtu.be/S7xTBa93TX8",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Adobe's new Firefly AI art generator is here to take on Midjourney and Dall-E",
+    "description": "Adobe announced Firefly, its generative AI art tool for creative professionals, positioned as an alternative to Midjourney and DALL-E.",
+    "link": "https://www.techradar.com/news/adobe-firefly",
+    "thumbnail": null,
+    "shared_by": "Nadav Feuer"
+  },
+  {
+    "title": "FBI warns consumers not to use public phone charging stations",
+    "description": "The FBI warns against using public USB charging stations due to risk of malicious software — juice jacking threat.",
+    "link": "https://edition.cnn.com/2023/04/12/tech/fbi-public-charging-port-warning/index.html",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Yuval Noah Harari: 'I don't know if humans can survive AI'",
+    "description": "Israeli historian Yuval Noah Harari argues AI is the first technology that takes power away from humans, raising existential concerns.",
+    "link": "https://www.telegraph.co.uk/news/2023/04/23/yuval-noah-harari-i-dont-know-if-humans-can-survive-ai/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Textise - Text-Only and Accessibility Tools",
+    "description": "Tool that creates a text-only version of almost any web page — great for web research, accessibility, and SEO.",
+    "link": "https://www.textise.net/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "EOUX — עופר מונר: מתודולוגיה לוולידציה ראשונית ללא גישה למשתמשים",
+    "description": "Methodology developed by Ofer Moner for initial validation of product scope without access to users, designed for fast-turnaround UX.",
+    "link": "https://uxer.co.il/eoux/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Imperva Red Team Discovers Vulnerability in TikTok",
+    "description": "Imperva Red Team found a vulnerability in TikTok allowing attackers to monitor user activity on mobile and desktop via a window message event handler.",
+    "link": "https://www.imperva.com/blog/imperva-red-team-discovers-vulnerability-in-tiktok-that-can-reveal-user-activity-and-information/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "IBM Will Stop Hiring Humans For Jobs AI Can Do",
+    "description": "IBM CEO announced plans to pause hiring for roles AI can perform, potentially replacing 7,800 jobs with AI programs.",
+    "link": "https://www.forbes.com/sites/nicholasreimann/2023/05/01/ibm-will-stop-hiring-humans-for-jobs-ai-can-do-report-says/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "How 'Modern Warfare 2' became the most realistic 'Call of Duty' game",
+    "description": "Behind the scenes of insane perfectionism in modern video game development — photogrammetry and performance capture in MW2.",
+    "link": "https://www.insider.com/call-of-duty-cod-modern-warfare-mw2-realistic-video-game-2023-4",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "הסטארט-אפ הישראלי שנמכר ל-IBM ב-60 מיליון דולר",
+    "description": "Israeli startup sold to IBM for $60 million, only 3 years after founding.",
+    "link": "https://www.themarker.com/technation/2023-05-16/ty-article/.premium/00000188-2417-df77-afe9-6dd79aa10000",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "הרצאה של בלה גרף (גוטיה) באורקל — Data Visualization (Hebrew)",
+    "description": "Webinar in Hebrew about data visualization fundamentals.",
+    "link": "https://www.youtube.com/watch?v=1cjybGDGors",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "הדומיינים החדשים של גוגל עושים כאב ראש למומחי אבטחה",
+    "description": "Google's new domain extensions (TLDs) are causing security headaches for experts.",
+    "link": "https://www.geektime.co.il/googles-new-domains-are-a-problem/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Microsoft Fabric — Data Analytics Platform",
+    "description": "An AI-powered analytics platform by Microsoft that brings data and services together, including data science and data lakes.",
+    "link": "https://www.microsoft.com/en-us/microsoft-fabric",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Adobe Photoshop (beta) x Adobe Firefly: Announcing Generative Fill",
+    "description": "Adobe announces Generative Fill in Photoshop beta — AI-powered content generation inside the canvas.",
+    "link": "https://www.youtube.com/watch?v=IVTyLYupECI",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "הבעה בגרף — מודל לתיאור יחסי נתונים ומדריך אפיון הגרף",
+    "description": "Hebrew fundamentals resource for data visualization — teaches how to frame data relationships in words and visuals, with an ontology for data visualization.",
+    "link": "https://online.fliphtml5.com/pwbzq/ppbl/",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Business Thinking for Designers (InVision free book)",
+    "description": "Free book by Ryan Rumsey on how to connect design to business strategy and transform your career and company.",
+    "link": "https://www.invisionapp.com/inside-design/business-thinking-for-designers-book/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Business Thinking for Designers — DesignBetter Download",
+    "description": "Direct download link for InVision's free Business Thinking for Designers book.",
+    "link": "https://www.designbetter.co/download?dl=business-thinking-for-designers",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+    "description": "Research project enabling flexible, precise control of GAN-generated images through interactive point-based dragging — no 3D model or annotations needed.",
+    "link": "https://vcai.mpi-inf.mpg.de/projects/DragGAN/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "AI Pacino — Generative Fill Photoshop Demo (TikTok)",
+    "description": "TikTok demo of Adobe Photoshop's Generative Fill AI applied to the famous Scarface scene.",
+    "link": "https://vt.tiktok.com/ZSLYJNUYs/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Apple Vision Pro is Apple's new AR headset",
+    "description": "Apple announces Vision Pro mixed reality headset at WWDC 2023 — specs, features, price and release date.",
+    "link": "https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "Brilliant Ads — Honest brand slogans (LinkedIn)",
+    "description": "Witty redesigns of famous brand slogans to be brutally honest — a viral creative post.",
+    "link": "https://www.linkedin.com/posts/brilliantads_honest-brand-slogans-which-one-is-your-activity-7074066300183961602-WGuL",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "AWS re:Inforce 2023: AWS Launches Cyber Insurance Partner Program",
+    "description": "Amazon Web Services launches a cyber insurance partner program, allowing organizations to get coverage in as little as two business days.",
+    "link": "https://www.channele2e.com/news/aws-reinforce-2023-aws-launches-cyber-insurance-partner-program/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "להכיר את המשתמשים שלך: לעצב את הבלתי צפוי",
+    "description": "UXI Live talk on designing for African users — when basic assumptions like email addresses don't exist and processes need to be rethought.",
+    "link": "https://uxilive.co.il/video/know-your-users-africa-noa-stern/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "ממחקר להחלטות עיצוביות באפליקציית רכבת ישראל",
+    "description": "UXI Live talk on translating research insights into design decisions — case study from the Israel Railways app.",
+    "link": "https://uxilive.co.il/video/research-to-design-nitzan-avitouv/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "IBM Enterprise Design Thinking — Practitioner Course (Free)",
+    "description": "Free 2-hour IBM design thinking course and certification for practitioners.",
+    "link": "https://www.ibm.com/design/thinking/page/courses/Practitioner",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Config 2023 | Figma's Annual Conference",
+    "description": "Figma's global annual conference, June 21–22 in San Francisco, covering new features including Dev Mode.",
+    "link": "https://config.figma.com/",
+    "thumbnail": null,
+    "shared_by": "Sher Agami"
+  },
+  {
+    "title": "Free Cybersecurity Training and Career Development | Cybrary",
+    "description": "Platform for cybersecurity training and career development courses.",
+    "link": "https://www.cybrary.it/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Keynote: Design without business is just decoration — Steve Johnson (Config 2023)",
+    "description": "10-minute Config 2023 keynote by Netflix VP of Design Steve Johnson on aligning design, technology, and business.",
+    "link": "https://youtu.be/Nmv8XdFiej0",
+    "thumbnail": null,
+    "shared_by": "Sher Agami"
+  },
+  {
+    "title": "From Routines to Results: How Embracing a Morning Ritual Transformed my Productivity",
+    "description": "Efrat Silberhaft's LinkedIn article on morning routines, early wake-ups, and sports activities to boost creativity and productivity.",
+    "link": "https://www.linkedin.com/pulse/from-routines-results-how-embracing-morning-ritual-my-silberhaft",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "Doing Research That Counts — Perspectives from Stakeholders (Eventbrite)",
+    "description": "Talking Research meetup on how to do impactful research from a stakeholder perspective. Tel Aviv, July 2023.",
+    "link": "https://www.eventbrite.com/e/doing-research-that-counts-perspectives-from-stakeholders-tickets-670640793667",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "+20 World Class Design Conferences (Dropbox)",
+    "description": "Collection of over 20 world-class conference recordings from Rosenfeld Media's Enterprise Experience Community.",
+    "link": "https://www.dropbox.com/sh/xzyhqy1k0fn9ce1/AAA-TjO-ph5x2m9LjRwdT1jna",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Secure your websites and applications now for the busiest time of the year (Imperva Webinar)",
+    "description": "Imperva webinar on securing web applications during peak traffic periods.",
+    "link": "https://www.imperva.com/resources/resource-library/webinars/secure-your-websites-and-applications-now-for-the-busiest-time-of-the-year/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Design thinking was supposed to fix the world. Where did it go wrong?",
+    "description": "MIT Technology Review retrospective on design thinking — arguing the approach that promised to democratize design may have done the opposite.",
+    "link": "https://www.technologyreview.com/2023/02/09/1067821/design-thinking-retrospective-what-went-wrong/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Elon Musk by Walter Isaacson (Amazon)",
+    "description": "Walter Isaacson's biography of Elon Musk.",
+    "link": "https://www.amazon.com/Elon-Musk-Walter-Isaacson/dp/1982181281",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "The Knowledge Project Podcast (YouTube)",
+    "description": "379 videos about decision-making, thinking better, and living well — recommended for expanding perspectives beyond design.",
+    "link": "https://www.youtube.com/@tkppodcast",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "A redesigned Slack, built for focus",
+    "description": "Slack's new design aimed at improving focus and collaboration in the productivity platform.",
+    "link": "https://slack.com/blog/productivity/a-redesigned-slack-built-for-focus",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Dream about Race — ThePleasantDream",
+    "description": "Article on dreaming about race as a metaphor for how well you're keeping up with life's journey, goals, and challenges.",
+    "link": "https://thepleasantdream.com/dream-about-race/",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "Wayne Bao: Analysis of Dreams (TED)",
+    "description": "TED talk presenting Sigmund Freud's ideas about dream interpretation.",
+    "link": "https://www.ted.com/talks/wayne_bao_analysis_of_dreams",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "What Do Recurring Dreams Mean? | Sleep Foundation",
+    "description": "Overview of what causes recurring dreams, what they might mean, and how to cope.",
+    "link": "https://www.sleepfoundation.org/dreams/dream-interpretation/recurring-dreams",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "האקרים פרצו לשופרסל וניתקו מקרר מזון",
+    "description": "Hackers broke into Shufersal's industrial refrigerators remotely, causing tens of thousands of shekels in damage.",
+    "link": "https://www.geektime.co.il/shufersal-fridge-hack/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "גדול, מבוזר ועדיין צומח: דו\"חות פאלו אלטו חושפים את קרביים של שוק הסייבר",
+    "description": "Palo Alto Networks 134-slide deck analysis revealing the structure of the cyber market and growth potential.",
+    "link": "https://www.calcalist.co.il/calcalistech/article/rjf03ajth",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Thales To Acquire Imperva: Building This Dream House Won't Be Easy",
+    "description": "Forrester analysis of the Thales acquisition of Imperva — challenges of merging two acquisition-heavy portfolios.",
+    "link": "https://www.forrester.com/blogs/thales-to-acquire-imperva-building-this-dream-house-wont-be-easy/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "AI visualizes Gustavo Dudamel's conducting moves (YouTube)",
+    "description": "Playful video using AI to visualize the movements of famous conductor Gustavo Dudamel.",
+    "link": "https://youtu.be/V6GbFf_KXNQ",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Shape Up — Basecamp's Product Development Method",
+    "description": "Basecamp's free book on their product development methodology — stop running in circles and ship work that matters.",
+    "link": "https://basecamp.com/shapeup",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Sad Truths On What It's Like To Be A Designer — Vitaly Friedman (LinkedIn)",
+    "description": "Vitaly Friedman's honest and on-point overview of the little frustrations many designers experience in their daily work.",
+    "link": "https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7098583216281792512-efcJ",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Extended embryo retention and viviparity in the first amniotes (Nature)",
+    "description": "Shared as a 'chicken or egg' question — Nature study on the origins of egg-laying vs live birth in early amniotes.",
+    "link": "https://www.nature.com/articles/s41559-023-02074-0",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "UXI Live 2022 Lectures Archive",
+    "description": "Full archive of UXI Live COM.PLEX 2022 conference lectures on product, UX and UI.",
+    "link": "https://uxilive.co.il/video/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "8 Design Guidelines for Complex Applications — Nielsen Norman Group",
+    "description": "Despite diversity in workflows and end users, these 8 design guidelines apply broadly to complex enterprise applications.",
+    "link": "https://www.nngroup.com/articles/complex-application-design/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "D Masters — קורסים דיגיטליים בחינם (Stand With Israel)",
+    "description": "All digital courses on the D Masters platform opened for free access during difficult times in Israel.",
+    "link": "https://www.dmasters.co.il/standwithisrael",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Graphical Perception: Theory, Experimentation, and Application (JSTOR)",
+    "description": "Foundational 1984 academic paper by Cleveland & McGill on graphical perception — basis for determining which data visualization type to use.",
+    "link": "https://www.jstor.org/stable/2288400",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "23andMe confirms hackers stole ancestry data on 6.9 million users",
+    "description": "Genetic testing company 23andMe confirmed a data breach affecting about half its total customers.",
+    "link": "https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "שיא ישראלי: פאלו אלטו כבר נושקת ל-100 מיליארד דולר",
+    "description": "Palo Alto Networks nearing $100B valuation — record for a cyber company, alongside Check Point and CyberArk.",
+    "link": "https://www.calcalist.co.il/market/article/s1yc8fdlp",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Miro's What's New Board — Year in Review",
+    "description": "Miro put all year's releases in one interactive board organized by theme/neighborhoods — a great example of product communication design.",
+    "link": "https://miro.com/app/board/uXjVNMPwSgY=/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Designing a Color Graphics Page — NASA Color Usage Guidelines",
+    "description": "NASA's checklist for designing color graphics pages for information display and ATC/ATM interfaces.",
+    "link": "https://colorusage.arc.nasa.gov/graphics_page_design.php",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Design better pagination",
+    "description": "Pagination UI best practices and complex considerations for product designers.",
+    "link": "https://medium.com/@coyleandrew/design-better-pagination-a022a3b161e1",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "What's next for Dev Mode: Annotations, Compare Changes, Plugins, and More",
+    "description": "Figma blog on upcoming Dev Mode features as it moves out of free beta on January 31.",
+    "link": "https://www.figma.com/blog/dev-mode-ga/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Mini car bad design — tweet by Andy Ellis (CISO)",
+    "description": "Tweet calling out a poor Mini car design, which got Cloudflare's CEO to weigh in on bad design implications.",
+    "link": "https://x.com/csoandy/status/1751338475050143905",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How Airbnb Became a Leader in UX Design",
+    "description": "Design history of Airbnb — from a small bed & breakfast to a leader in UX/UI design and innovation.",
+    "link": "https://blog.prototypr.io/how-airbnb-became-a-leader-in-ux-design-7d8ab8ad803e",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "OKR in product design (YouTube)",
+    "description": "Short, good guide for setting OKRs in product design.",
+    "link": "https://www.youtube.com/watch?v=3j_2DvyBhNY",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "תחילת הסוף של מסכי מגע מעצבנים ברכב: Euro-NCAP מאלץ יצרניות להתקין כפתורים",
+    "description": "Euro-NCAP is requiring physical buttons and switches as a condition for 5-star safety ratings, pushing back against touchscreen-only car interiors.",
+    "link": "https://thecar.co.il/touchscreens-euro-ncap/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Meet Multi-edit | Figma (YouTube)",
+    "description": "Figma announces multi-edit feature — edit multiple layers simultaneously.",
+    "link": "https://youtu.be/XfHSWfCrX58",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "Unstoppable Us — Yuval Noah Harari",
+    "description": "Yuval Noah Harari's book Unstoppable Us — official page.",
+    "link": "https://www.ynharari.com/book/unstoppable_us/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Fireside Chat with Don Norman — ADPList",
+    "description": "Conversation with Don Norman on the evolution of design, cognitive science, and shaping the future, hosted by ADPList.",
+    "link": "https://adplist.org/session/fireside-chat-with-don-norman",
+    "thumbnail": null,
+    "shared_by": "Sher Agami"
+  },
+  {
+    "title": "UXI Live 2023 Archive",
+    "description": "All UXI Live 2023 conference talks available to watch — covering UX strategy, Design ROI, and behavioral research for product discovery.",
+    "link": "https://uxilive.co.il/video/category/uxi-live-2023/",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "SMART HOUSE – REMA 1000 (what not to do in UX)",
+    "description": "A comedic example of terrible smart home UX — shared as an example of what not to do in design.",
+    "link": "https://youtu.be/nwPtcqcqz00",
+    "thumbnail": null,
+    "shared_by": "Efrat Silberhaft"
+  },
+  {
+    "title": "Inside the vision for GitLab's new platform navigation",
+    "description": "How GitLab used a North Star exercise with SUS feedback themes to redesign their platform navigation.",
+    "link": "https://about.gitlab.com/blog/2023/05/01/gitlab-product-navigation/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "GitLab System Usability Scale — Performance Indicators",
+    "description": "GitLab's use of the System Usability Scale (SUS) as a long-term product usability performance indicator.",
+    "link": "https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "GitLab Navigation & Settings Category Direction",
+    "description": "GitLab's product direction page for the Navigation and Settings category including 1-year plan.",
+    "link": "https://about.gitlab.com/direction/manage/foundations/navigation_settings/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Akamai Announces Intent to Acquire Noname Security",
+    "description": "Akamai acquires Noname Security, an API security company.",
+    "link": "https://www.akamai.com/newsroom/press-release/akamai-announces-intent-to-acquire-api-security-company-noname",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Dieter Rams — Oh You Pretty Things",
+    "description": "Design resource or tribute page about Dieter Rams' design principles.",
+    "link": "https://www.ohyouprettythings.com/rams",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Apple Foldable MacBook Rumors — Perplexity AI",
+    "description": "Summary of Apple foldable MacBook rumors — expected release between late 2025 and 2026 with a crease-free foldable OLED display.",
+    "link": "https://www.perplexity.ai/page/Apple-foldable-MacBook-KwX6j_WLTDeQdZ0tz657Mg",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "ThinkPad X1 Fold (16\" Intel) — Lenovo",
+    "description": "Lenovo's foldable laptop with a seamless 16.3\" OLED screen working in landscape, portrait, book, and laptop modes.",
+    "link": "https://www.lenovo.com/il/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-fold/len101t0047",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "\"גדלתי עם אבא על כיסא גלגלים. הבנתי שעיצוב יכול לשנות חיים\"",
+    "description": "Dana Yehia-Shvakman, chief designer at TOM project — on inclusive design and prosthetics for home use.",
+    "link": "https://www.ynet.co.il/laisha/article/bjjooetnr",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Lowe's wants you to use the Apple Vision Pro to design your kitchen",
+    "description": "Lowe's lets customers use Apple Vision Pro in three cities to plan kitchen remodels in virtual reality — new B2C use-cases for spatial computing.",
+    "link": "https://www.fastcompany.com/91135059/apple-vision-pro-lowes-home-improvement-virtual-reality-kitchen-remodel",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "לא יאומן: WalkMe נמכרת לענקית SAP ב-1.5 מיליארד דולר",
+    "description": "WalkMe, an Israeli software company founded in 2011, sold to SAP for $1.5 billion.",
+    "link": "https://www.ynet.co.il/economy/article/r1zc13tnc",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How Changing Your Thinking Can Change Your Life (Forbes)",
+    "description": "Forbes Coaches Council article on cognitive reframing and changing thinking patterns for a better life.",
+    "link": "https://www.forbes.com/sites/forbescoachescouncil/2022/08/11/how-changing-your-thinking-can-change-your-life/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "ChatGPT חיסל את Chegg: סוגרת פעילות בארץ ומפטרת עובדים",
+    "description": "Chegg closes its Israel development center, citing ChatGPT's impact on the need for its learning platform.",
+    "link": "https://www.calcalist.co.il/calcalistech/article/bkmg411k8c",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Figma pulls AI tool after criticism that it ripped off Apple's design",
+    "description": "Figma pulled its AI Make Designs feature after users pointed out it was reproducing Apple's Weather app design.",
+    "link": "https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Goal Gradient Effect: How to motivate customers like Uber, Duolingo, and Sephora",
+    "description": "How the goal gradient effect — people accelerate toward a goal as they get closer — is used in product design by Uber, Duolingo and Sephora.",
+    "link": "https://www.choicehackingideas.com/p/goal-gradient-effect-motivate-customers-like-uber-duolingo-sephora",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Config 2024: Serious play — Andy Allen, Software Designer, !Boring (Figma)",
+    "description": "Config 2024 talk on serious play in design — by Andy Allen from !Boring.",
+    "link": "https://www.youtube.com/watch?v=wBnIyD5I8mM",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Config 2024: A look inside teenage engineering (Figma)",
+    "description": "Config 2024 talk taking a look inside teenage engineering's design philosophy.",
+    "link": "https://www.youtube.com/watch?v=qCliqmX_TQ4",
+    "thumbnail": null,
+    "shared_by": "Adar Moritz"
+  },
+  {
+    "title": "Maven Lightning Lessons — Learn live with experts",
+    "description": "Live learning sessions with domain experts across various topics.",
+    "link": "https://maven.com/lightning-lessons",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Onboarding Tutorials vs. Contextual Help — Nielsen Norman Group",
+    "description": "Tutorials interrupt users and are quickly forgotten. NN/g explains why contextual help signals are better for onboarding.",
+    "link": "https://www.nngroup.com/articles/onboarding-tutorials/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "New Figma AI for reusable UI patterns (LinkedIn demo)",
+    "description": "Demo of Figma's AI implementation for generating reusable UI patterns — described as the best AI-to-design implementation seen.",
+    "link": "https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-the-new-figma-the-best-implementation-activity-7228037470666244096-fr5G",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Ep 27. Using AI to scale UX writing at Monday.com (YouTube)",
+    "description": "How Monday.com uses AI to scale UX writing across their product.",
+    "link": "https://youtu.be/Cm2Jh4yEAPg",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "מאמר על טבלאות מורכבות — UXpert",
+    "description": "Article on designing multi-parameter tables in complex UI.",
+    "link": "https://www.uxpert.com/blog/multi-parameter-tables",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "אקזיט ענק: סיילספורס רוכשת את Own הישראלית ב-1.9 מיליארד דולר",
+    "description": "Salesforce acquires Israeli company Own for $1.9 billion.",
+    "link": "https://www.themarker.com/technation/2024-09-06/ty-article/00000191-c406-d549-a9ff-e727af0d0000",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "UX Pilot — Your AI-UX Assistant",
+    "description": "Generate wireframes, review designs, and access 11 AI tools to streamline your UX process on web and in Figma.",
+    "link": "https://uxpilot.ai/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "UX Roundup: NPS, UX Metrics, AI's Impact on Economy (YouTube)",
+    "description": "Video roundup covering NPS, UX metrics, and AI's economic impact.",
+    "link": "https://youtu.be/q8GcjH3ID1w",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Lies Wide Shut — The Dor Brothers (X)",
+    "description": "Political/cultural commentary video by The Dor Brothers on X.",
+    "link": "https://x.com/thedorbrothers/status/1844071344050499810",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Laws of UX",
+    "description": "A collection of best practices and psychological principles that designers can consider when building user interfaces.",
+    "link": "https://lawsofux.com/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "80 types of charts & graphs for data visualization (with examples)",
+    "description": "Complete list of popular and lesser-known chart and graph types for data visualization — line charts, bar graphs, pie charts, scatter plots and more.",
+    "link": "https://www.datylon.com/blog/types-of-charts-graphs-examples-data-visualization",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Proactive API Security: The Vaccine Approach — Pynt Webinar",
+    "description": "Webinar on proactive API security using a preventive vaccine-style approach.",
+    "link": "https://www.pynt.io/proactive-api-security-the-vaccine-approach",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Data Visualization Kit — Figma Community",
+    "description": "Figma community data visualization kit with reusable chart and graph components.",
+    "link": "https://www.figma.com/community/file/1258847030939461287",
+    "thumbnail": null,
+    "shared_by": "Romi Maliniak"
+  },
+  {
+    "title": "Data Viz Project — Collection of data visualizations",
+    "description": "Collection of data visualizations to get inspired and find the right type for your data.",
+    "link": "https://datavizproject.com/",
+    "thumbnail": null,
+    "shared_by": "Romi Maliniak"
+  },
+  {
+    "title": "פישינג על Bit — Cyber Security IL (Telegram)",
+    "description": "Alert about a sophisticated phishing attack targeting Bit (Israeli payment app) — shared from the Cyber Security Israel Telegram channel.",
+    "link": "https://t.me/CyberSecurityIL/6059",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Wiz רוכשת את Dazz ב-450 מיליון דולר — Cyber Security IL (Telegram)",
+    "description": "Israeli cyber exit: Wiz acquires Dazz (ASPM platform) for approximately $450 million.",
+    "link": "https://t.me/CyberSecurityIL/6099",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "על דגים מוזרים ויהלומים כפולים — Tal Solomon UX",
+    "description": "Framework for allocating design resources per project type, presented at COM.PLEX 2024. Based on Tal Solomon's 'fish model' developed at Redis.",
+    "link": "https://www.talsolomonux.com/post/%D7%A2%D7%9C-%D7%93%D7%92%D7%99%D7%9D-%D7%9E%D7%95%D7%96%D7%A8%D7%99%D7%9D-%D7%95%D7%99%D7%94%D7%9C%D7%95%D7%9E%D7%99%D7%9D-%D7%9B%D7%A4%D7%95%D7%9C%D7%99%D7%9D",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "BrainWorkshops — Think and Work Smarter (YouTube)",
+    "description": "Neuroscience and cognitive psychology applied to productivity, creativity and resilience — includes reframing video.",
+    "link": "https://www.youtube.com/@BrainworkshopsUk/videos",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "v0.dev — Generate a frontend SaaS that converts Figma design to HTML/CSS",
+    "description": "v0.dev generation for converting Figma designs into clean, functional HTML and CSS using shadcn/ui.",
+    "link": "https://v0.dev/t/AKwLhq5KEnk",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Co-gaming with Copilot Vision (YouTube)",
+    "description": "Demo of Microsoft Copilot Vision — AI co-playing a video game with the user in real time.",
+    "link": "https://youtu.be/H3-hHiITH_g",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "8 לוגואים שכולנו מכירים הפכו לנשיים — Imagine Studio",
+    "description": "Creative experiment redesigning 8 famous brand logos with feminine visual language.",
+    "link": "https://imagine-studio.co.il/blog/logos-turned-feminine/",
+    "thumbnail": null,
+    "shared_by": "Mor Rosenfeld"
+  },
+  {
+    "title": "OpenAI חושפת ChatGPT בוואטסאפ — שת\"פ עם מטא",
+    "description": "Meta and OpenAI collaboration bringing ChatGPT directly into WhatsApp, targeting 2 billion users.",
+    "link": "https://www.ynet.co.il/digital/technews/article/sjwiiews1l",
+    "thumbnail": null,
+    "shared_by": "Mor Rosenfeld"
+  },
+  {
+    "title": "Figma Billing Experience Update 2025",
+    "description": "Figma's March 2025 billing changes — Dev Mode bundled with design seats, with a significant price increase.",
+    "link": "https://www.figma.com/blog/billing-experience-update-2025/",
+    "thumbnail": null,
+    "shared_by": "Yishai SOREK"
+  },
+  {
+    "title": "Satya Nadella on the Future of SaaS and the Year of Agents (YouTube)",
+    "description": "Satya Nadella on 2025 as the year of AI agents, the future of SaaS, and advice for engineers.",
+    "link": "https://youtu.be/GuqAUv4UKXo",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Turn Figma designs into full stack apps with AI (YouTube)",
+    "description": "Demo of turning Figma designs into full stack applications using AI tools.",
+    "link": "https://www.youtube.com/watch?v=v2RHAHFHsyc",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Subaru STARLINK vulnerability — hackers could control millions of cars remotely",
+    "description": "Security researchers found critical flaws in Subaru's STARLINK service allowing remote control of vehicles using just a license plate number.",
+    "link": "https://cybersecuritynews.com/subaru-car-vulnerability-lets-hackers-control-the-millions-of-cars-remotely/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "You're Not Behind: Become AI-Native in 2025 (YouTube)",
+    "description": "Perspective on how to become AI-native rather than feeling behind the curve.",
+    "link": "https://www.youtube.com/watch?v=j63bBK_ct-M",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Live Co-Editing in Photoshop Beta (YouTube)",
+    "description": "Adobe Photoshop Beta announces live co-editing — possibly positioning Adobe as a Figma competitor.",
+    "link": "https://www.youtube.com/watch?v=oPbSSsH9awU",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Crossing the Uncanny Valley of Conversational Voice — Sesame",
+    "description": "Sesame's research on achieving voice presence — conversational AI that feels real, understood and valued. Interactive demo available.",
+    "link": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "The case for using your brain — even if AI can think for you (Vox)",
+    "description": "Digital dependence is reshaping our brains. Piece on the increasing reliance on AI and why using your own cognition still matters.",
+    "link": "https://www.vox.com/future-perfect/403100/ai-brain-effects-technology-phones",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Design is not a process — Jon Daiello",
+    "description": "Design is more like jazz improvisation than a factory production line — a craft of knowing when and how to wield the right tools.",
+    "link": "https://www.jondaiello.com/posts/design-is-not-a-process",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Learn UX Design at Your Own Pace — Uxcel",
+    "description": "Interactive, bite-sized UX design courses — improve your skills in just 5 minutes a day.",
+    "link": "https://uxcel.com/",
+    "thumbnail": null,
+    "shared_by": "Moshe Sabach"
+  },
+  {
+    "title": "Claude + Figma + Jira via MCP — AI design system workflow (LinkedIn)",
+    "description": "Demo of connecting Claude to Figma and Jira via MCP — generating an initial design from an existing design system and creating a full Jira project in under 10 minutes.",
+    "link": "https://www.linkedin.com/posts/amitayboneh_%D7%90%D7%A0%D7%99-%D7%91%D7%A9%D7%95%D7%A7-%D7%A9%D7%96%D7%94-%D7%90%D7%A9%D7%9B%D7%A8%D7%94-%D7%A2%D7%91%D7%93-%D7%90%D7%AA%D7%9E%D7%95%D7%9C-%D7%97%D7%99%D7%91%D7%A8%D7%AA%D7%99-%D7%90%D7%AA-ugcPost-7313267625730441216-ELVh/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Forrester's 2026 Technology & Security Predictions",
+    "description": "Enterprises will defer 25% of planned AI spend to 2027 as AI hype fades — Forrester's tech and security outlook for 2026.",
+    "link": "https://www.forrester.com/press-newsroom/forrester-tech-security-2026-predictions/",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Accessible notifications and messages — GitHub Primer",
+    "description": "GitHub removed toast notifications from its design system due to WCAG accessibility violations — explains the issues and recommends alternatives.",
+    "link": "https://primer.style/accessibility/patterns/accessible-notifications-and-messages/",
+    "thumbnail": null,
+    "shared_by": "ioulia"
+  },
+  {
+    "title": "When Interfaces Design Themselves — Big Medium",
+    "description": "Radically adaptive UI experiences that change content, structure, style, or behavior to provide the right experience for the moment — the future of UI?",
+    "link": "https://bigmedium.com/ideas/when-interfaces-draw-themselves.html",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Fall of KNP Logistics: the price of a vulnerable password",
+    "description": "KNP, a British transport company founded in 1865, wiped out by the Akira ransomware group due to a compromised employee login.",
+    "link": "https://sosransomware.com/en/ransomware-en/vulnerable-password-sends-century-old-knp-into-bankruptcy-the-true-cost-of-ransomware/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Glif — The Creative Agent Platform for Builders",
+    "description": "Build and discover AI agents and workflows across all models. Ship agents that create, not just chat.",
+    "link": "https://glif.app/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Mojoptix 001: Digital Sundial",
+    "description": "Invention of a digital sundial — a physical object that projects digital time numerals using sunlight through a precise 3D-printed structure.",
+    "link": "https://www.mojoptix.com/2015/10/25/mojoptix-001-digital-sundial/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "AI as a Force Multiplier for Skilled Designers — arXiv paper",
+    "description": "Research finding that AI amplifies the already skilled but doesn't automatically turn novices into experts — calling for deeper education and guided usage patterns.",
+    "link": "https://arxiv.org/html/2509.21890v1",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How To Use AI Better Than 99% Of People (YouTube)",
+    "description": "Practical guide on getting more out of AI tools.",
+    "link": "https://youtu.be/xgpLjLHB5sA",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "From sketches to prototype: Designing with generative AI — Google DeepMind x Ross Lovegrove",
+    "description": "Google DeepMind collaborated with designer Ross Lovegrove and design office Modem using generative AI in a design process.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ross-lovegrove-design/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Thales Brand Portal",
+    "description": "Official Thales Group brand portal with brand guidelines and media assets.",
+    "link": "https://medialibrary.thalesgroup.com/portals/ujcpjems/BrandPortal",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Best Designs on X.com",
+    "description": "Curated hourly feed of the best design inspiration from top creatives on X — logos, UI, branding, and more.",
+    "link": "https://bestdesignsonx.com/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Madagascar: AI Trainers | ARTE.tv Documentary (YouTube)",
+    "description": "Documentary on human workers in Madagascar doing low-paid AI training labor — a reminder of who powers AI behind the scenes.",
+    "link": "https://youtu.be/Q7NZK6h9Tvo",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Designing for clarity: How we restructured Intercom's information architecture",
+    "description": "How Intercom simplified its navigation, enhanced UX, and created space for AI innovation through IA restructuring.",
+    "link": "https://www.intercom.com/blog/designing-for-clarity-restructuring-intercoms-information-architecture/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Mitch Ivin — Designer Portfolio",
+    "description": "Designer portfolio site.",
+    "link": "https://mitchivin.com/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "לא מהנדסת, לא מתכנתת: הפילוסופית שמעצבת את האישיות של קלוד — Ynet",
+    "description": "Profile of Amanda Askell, Anthropic's Chief Philosopher who wrote Claude's 80-page 'constitution' that shapes every response it gives.",
+    "link": "https://www.ynet.co.il/digital/technology/article/h1ucj8700wg",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "Designers.MX — Your Mix of Inspiration",
+    "description": "Curated design inspiration feed.",
+    "link": "https://www.designers.mx/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Dirk Lach — Playlists",
+    "description": "Music playlists for different moods, each paired with a cover designed by Dirk Lach.",
+    "link": "https://www.dirklach.com/playlists",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Pendo MCP Webinar — AI tools integrated with Pendo data",
+    "description": "Webinar on Pendo's MCP integration enabling AI tools to query and work with accumulated Pendo product analytics data.",
+    "link": "https://go.pendo.io/mcp-webinar-webinar-register-ty.html",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "קלוד קוד בעברית — מבוא למתחילים (YouTube)",
+    "description": "Introduction to Claude Code in Hebrew — beginner's guide to getting started.",
+    "link": "https://www.youtube.com/watch?v=hcw9xnkmPlA",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How I Vibe Code as a Designer using AI Tools at Descript (YouTube)",
+    "description": "Descript designer Jay shows how she uses Figma Make and other AI tools for 0-1 projects, side projects and team plugins.",
+    "link": "https://www.youtube.com/watch?v=1qVWJeI9Yec",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Data vs. Findings vs. Insights in UX — Vitaly Friedman (LinkedIn)",
+    "description": "Clear framework distinguishing data points, findings, and insights in UX research — to reduce surprises and misunderstandings in research presentations.",
+    "link": "https://www.linkedin.com/pulse/data-vs-findings-insights-ux-vitaly-friedman-cwrje/",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Figma Live with Claude Code — X post",
+    "description": "Figma and Anthropic live session on moving fluidly between Claude Code and Figma using the Figma MCP server.",
+    "link": "https://x.com/figma/status/2039011910260293851",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Think Faster, Talk Smarter with Matt Abrahams (YouTube)",
+    "description": "Communication skills video on how to think and talk faster and smarter.",
+    "link": "https://www.youtube.com/watch?v=x6TsR3y5Qfg",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "PlainID — Agentic Identity Platform",
+    "description": "Platform securing AI agents, APIs, data and applications with real-time authorization and Zero Standing Privileges.",
+    "link": "https://www.plainid.com/",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "יומיים בלב איראן: המכשיר הקטן שהציל את הנווט האמריקאי",
+    "description": "UX and Human Factors in real life — how a small survival device enabled a downed F-15E navigator to be rescued after 48 hours inside Iran.",
+    "link": "https://www.ynet.co.il/digital/technews/article/bysffo1hzx",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Two days in Iran: the small device that helped US forces rescue the F-15E navigator (English)",
+    "description": "English version of the F-15E navigator rescue story — advanced combat search and rescue technology used deep inside Iran.",
+    "link": "https://www.ynetnews.com/tech-and-digital/article/b1foask211g",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Claude Skills for Designers — Top 10 Ranked",
+    "description": "The 10 best Claude Code design skills on GitHub, ranked and unfiltered.",
+    "link": "https://claude-skills-designers.vercel.app/",
+    "thumbnail": null,
+    "shared_by": "Ronen Berliner"
+  },
+  {
+    "title": "Anthropic launches Claude Design — AI tool that turns prompts into prototypes",
+    "description": "VentureBeat report on Anthropic's Claude Design tool that generates design prototypes from prompts, challenging Figma.",
+    "link": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+    "thumbnail": null,
+    "shared_by": "Nadav Feuer"
+  },
+  {
+    "title": "Designing For Trust and Confidence in AI — Vitaly Friedman (LinkedIn)",
+    "description": "Free 1.5h deep-dive into designing for trust in AI — autonomy, risk, confidence, guardrails, with videos, slides and examples.",
+    "link": "https://www.linkedin.com/posts/vitalyfriedman_designing-for-trust-and-confidence-in-activity-7447222523500380160-pzTQ/",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "5 tips to improve your critical thinking — TED-Ed",
+    "description": "Samantha Agoos describes a 5-step critical thinking process applicable to any problem.",
+    "link": "https://ed.ted.com/lessons/5-tips-to-improve-your-critical-thinking-samantha-agoos",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "The Demon of Reason Collection — TED-Ed",
+    "description": "TED-Ed collection on logical fallacies and reasoning.",
+    "link": "https://ed.ted.com/ted_ed_collections/the-demon-of-reason",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "To Solve a Tough Problem, Reframe It — HBR",
+    "description": "Research shows companies devote too little effort to problem framing before solving. This piece explains how to explore different frames.",
+    "link": "https://hbr.org/2024/01/to-solve-a-tough-problem-reframe-it",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "5 Whys Method — Interaction Design Foundation",
+    "description": "The 5 Whys is an iterative technique pioneered at Toyota to explore cause-and-effect relationships underlying a specific problem.",
+    "link": "https://ixdf.org/literature/topics/5-whys",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "FigJam: Your coding agents' whiteboard — Figma Blog",
+    "description": "Figma announces FigJam integration with coding agents — a whiteboard for AI-assisted development workflows.",
+    "link": "https://www.figma.com/blog/figjam-your-coding-agents-whiteboard/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Claude Design is a NIGHTMARE (YouTube)",
+    "description": "Critical review/reaction video about Claude Design tool.",
+    "link": "https://www.youtube.com/watch?v=w6PJ45-FU_0",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Patient's death linked to cyber attack on NHS hospital trust",
+    "description": "King's College Hospital NHS Foundation Trust reports a patient died unexpectedly during a cyber attack after a long wait for blood test results.",
+    "link": "https://news.sky.com/story/patient-death-linked-to-cyber-attack-on-nhs-hospital-trust-says-13388485",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Inversion: The Power of Avoiding Stupidity — Farnam Street",
+    "description": "Inversion is a mental model for improving thinking by flipping problems around and thinking backward instead of forward.",
+    "link": "https://fs.blog/inversion/",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces",
+    "description": "Smashing Magazine piece on how AI capabilities can reshape human-computer interaction beyond conversation — new UI paradigms.",
+    "link": "https://www.smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "Get security done with Sola | Product overview (YouTube)",
+    "description": "Product overview of Sola Security — build custom security apps with AI built for security.",
+    "link": "https://www.youtube.com/watch?v=I4JBmzvo6kE",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "Sola Security — Build Your Own Security App",
+    "description": "Create custom security apps to fit exact needs, faster, with AI built for security.",
+    "link": "https://sola.security/",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "Check Point Threat Map — Live Cyber Attack Map",
+    "description": "Real-time visualization of global cyber attacks — interactive map by Check Point.",
+    "link": "https://threatmap.checkpoint.com/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Kaspersky Cyberthreat Live Map",
+    "description": "Real-time live map of global cyberthreats and attacks — by Kaspersky.",
+    "link": "https://cybermap.kaspersky.com/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Visualizing Cyber Threats: An Introduction to Attack Graphs",
+    "description": "Fundamentals of attack graphs — components, types, and applications in cybersecurity threat modeling and risk assessment.",
+    "link": "https://www.puppygraph.com/blog/attack-graph",
+    "thumbnail": null,
+    "shared_by": "Yoni Raveh"
+  },
+  {
+    "title": "ChatGPT Is Poisoning Your Brain — Medium",
+    "description": "Article arguing that over-reliance on ChatGPT is degrading cognitive skills and explaining how to use AI more intentionally.",
+    "link": "https://medium.com/@jordan_gibbs/chatgpt-is-poisoning-your-brain-b66c16ddb7ae",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Config 2025 Highlights — Figma",
+    "description": "All new products and features announced at Figma's Config 2025 conference.",
+    "link": "https://www.config.new/",
+    "thumbnail": null,
+    "shared_by": "Aiswarya Murali"
+  },
+  {
+    "title": "Palo Alto Networks Custom Dashboard Feature",
+    "description": "Palo Alto Networks documentation on how users can create and customize their own dashboards.",
+    "link": "https://docs.paloaltonetworks.com/whats-new/new-features/june-2023/custom-dashboard",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Kern Type — A game to learn how to kern type",
+    "description": "Interactive game for learning letter kerning — adjust spacing between letters and post your score.",
+    "link": "https://type.method.ac/",
+    "thumbnail": null,
+    "shared_by": "Manjari Dwivedi"
+  },
+  {
+    "title": "Customize guides with guide logic — Pendo Support",
+    "description": "Pendo documentation on adding branching logic to guides and surveys.",
+    "link": "https://support.pendo.io/hc/en-us/articles/15145835158299-Customize-guides-with-guide-logic",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "A/B testing with guides — Pendo Support",
+    "description": "Pendo's A/B testing feature for guides — create 2 variants or compare against a control group (no guide) to measure engagement.",
+    "link": "https://support.pendo.io/hc/en-us/articles/37754430083611-A-B-testing-with-guides",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "Dynatrace Marketecture Explainer (YouTube)",
+    "description": "Complex system with well-designed solutions — Dynatrace platform overview for unified observability and security analytics.",
+    "link": "https://www.youtube.com/watch?v=lJNVc-xaLfM",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "Vimeo 611755605 — Inspirational video about complex systems and elegant solutions",
+    "description": "A video shared as inspiration for designing elegant solutions for complex systems.",
+    "link": "https://vimeo.com/611755605",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "In Common With — All Lighting",
+    "description": "Lighting design products — shared with the note 'Toggle the switch'.",
+    "link": "https://www.incommonwith.com/collections/all-lighting",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Ilya Sutskever — We're moving from the age of scaling to the age of research (YouTube)",
+    "description": "Podcast with Ilya Sutskever, major contributor to deep learning, on the state of AI and what comes after scaling laws.",
+    "link": "https://youtu.be/aR20FWCCjAs",
+    "thumbnail": null,
+    "shared_by": "Alexander Zazerin"
+  },
+  {
+    "title": "Xiaomi Modular Optical System — MagSafe-style snap-on camera lens (Yanko Design)",
+    "description": "Xiaomi's MWC 2025 concept of a modular optical system that snaps onto smartphones to deliver professional-grade photography.",
+    "link": "https://www.yankodesign.com/2025/03/03/xiaomi-just-gave-apple-the-most-brilliant-magsafe-accessory-idea-ever-hands-on-at-mwc-2025/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Pantone's Controversial 2026 Color of the Year — Cloud Dancer",
+    "description": "Pantone's 2026 Color of the Year choice, Cloud Dancer, stirred online debate and controversy.",
+    "link": "https://people.com/pantone-color-of-the-year-controversy-explained-11862972",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Cursor Browser Visual Editor",
+    "description": "Cursor's new browser version includes a visual editor — making Cursor even more productive for web development.",
+    "link": "https://cursor.com/blog/browser-visual-editor",
+    "thumbnail": null,
+    "shared_by": "Romi Maliniak"
+  },
+  {
+    "title": "Adobe Photoshop and Acrobat now in ChatGPT",
+    "description": "Adobe integrates Photoshop, Express, and Acrobat inside ChatGPT to streamline creative workflows.",
+    "link": "https://www.contentgrip.com/adobe-integrates-photoshop-chatgpt/",
+    "thumbnail": null,
+    "shared_by": "Aiswarya Murali"
+  },
+  {
+    "title": "Morning Routines — achichichi Substack Archive",
+    "description": "Music and morning routines substack archive — shared by Lior as a music recommendation.",
+    "link": "https://achichichi.substack.com/archive?sort=new",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Figma MCP to Claude — Figma designs to code live session (YouTube)",
+    "description": "Live session demonstrating using the Figma MCP server with Claude for design-to-code workflows and prototyping.",
+    "link": "https://www.youtube.com/live/x2LGggL6BNI",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "UX of UI Buttons — Right placement of buttons and button groups",
+    "description": "Research article on button placement, positive/negative CTAs, and how different OS and design systems handle button group placement.",
+    "link": "https://medium.com/@manjaridesigner/ux-of-ui-buttons-dd9f1d6c933e",
+    "thumbnail": null,
+    "shared_by": "Manjari Dwivedi"
+  },
+  {
+    "title": "Improving Our Nation Through Better Design — White House Executive Order",
+    "description": "US Presidential executive order on improving the nation through better design — a milestone for design's recognition at government level.",
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/08/improving-our-nation-through-better-design/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Tools and tech used by the blind or visually impaired — X post",
+    "description": "Thread on assistive technologies used by blind or visually impaired people for daily tasks and operating machines.",
+    "link": "https://x.com/rainmaker1973/status/1936372173913956545",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Critique Me, Please — Harvard Business Review",
+    "description": "HBR piece on the tradition of 'crit' in design and arts — how critique differs from sciences and why it matters for improvement.",
+    "link": "https://hbr.org/2009/05/critique-me-please",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Brian Chesky preview of Airbnb's new design system — X post",
+    "description": "Brian Chesky shares a preview of Airbnb's Summer Release design system — new font, navigation, layout system, colors, cards and icons.",
+    "link": "https://x.com/bchesky/status/1937335063051714835",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Poline — Esoteric Color Palette Generation Library",
+    "description": "Lightweight JavaScript library that draws lines between color anchors over polar coordinates to generate beautiful, harmonic color palettes.",
+    "link": "https://meodai.github.io/poline/",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "AI Social Dependency — X post by AlphaFox",
+    "description": "Commentary on increasing human social dependency on AI, suggesting people may soon not know how to talk to each other in person.",
+    "link": "https://x.com/alphafox78/status/1975996724180320339",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "Google DeepMind cancer hypothesis validated in living cells — Sundar Pichai X post",
+    "description": "Google DeepMind's C2S-Scale 27B model generated a novel cancer cellular behavior hypothesis that was experimentally validated in living cells.",
+    "link": "https://x.com/sundarpichai/status/1978507110477332582",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "What is a Knowledge Graph — Stardog",
+    "description": "Explanation of what a knowledge graph is, how it works, and how it differs from a graph database.",
+    "link": "https://www.stardog.com/knowledge-graph/",
+    "thumbnail": null,
+    "shared_by": "Karin Leshets"
+  },
+  {
+    "title": "21st.dev — Craft with AI",
+    "description": "Platform for discovering inspiration and connecting with vibe coding tools — build with your team's taste.",
+    "link": "https://21st.dev/home",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  },
+  {
+    "title": "This Changes Everything (Amazon book)",
+    "description": "Book shared by Lior with the comment 'This is between grows to genius'.",
+    "link": "https://a.co/d/307Jwja",
+    "thumbnail": null,
+    "shared_by": "Lior Atzmon"
+  },
+  {
+    "title": "How UX can unlock hidden cyber threats — UX use-case visualization (YouTube)",
+    "description": "Visual investigation tool in map form demonstrating how UX can surface hidden cyber threats — with a creative voice-over.",
+    "link": "https://www.youtube.com/watch?v=RIYrh79zg80",
+    "thumbnail": null,
+    "shared_by": "Ori Dar"
+  }
+]

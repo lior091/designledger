@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0d0d0d;
+  --foreground: #e9eaec;
+  --muted: #9aa3ad;
+  --steel-1: #2a2f36;
+  --steel-2: #1a1f26;
+  --amber: #ffb020;
+  --amber-2: #ffcd73;
+  --border: color-mix(in srgb, var(--foreground) 16%, transparent);
+  --glass: color-mix(in srgb, #ffffff 7%, transparent);
+  --glass-border: color-mix(in srgb, #ffffff 14%, transparent);
+  --shadow: 0 18px 70px rgba(0, 0, 0, 0.55);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-amber: var(--amber);
+  --color-steel-1: var(--steel-1);
+  --color-steel-2: var(--steel-2);
+  --color-border: var(--border);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+}
+
+@layer base {
+  ::selection {
+    background: color-mix(in srgb, var(--amber) 35%, transparent);
+  }
+}
+
+@layer utilities {
+  .mono-border {
+    border: 1px solid var(--border);
+  }
+
+  .glass-rail {
+    background: linear-gradient(
+      180deg,
+      color-mix(in srgb, rgba(13, 13, 13, 0.62) 60%, var(--glass)) 0%,
+      color-mix(in srgb, rgba(13, 13, 13, 0.78) 72%, var(--glass)) 100%
+    );
+    border-top: 1px solid var(--glass-border);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+
+  .neo-shadow {
+    box-shadow: var(--shadow);
+  }
+}
